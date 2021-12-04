@@ -53,7 +53,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     private ArrayList<Place> placesToVisit = new ArrayList<>();
 
-    public static final String GOOGLE_API_KEY = "AIzaSyDBV7v63UOCBlaJRN7B7IubAHUNXo_sfi4";
+    public static final String GOOGLE_API_KEY = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
